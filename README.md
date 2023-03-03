@@ -15,7 +15,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="baby-yoda" height="250" width="250"   src="https://media0.giphy.com/media/1A7ETzpIvs7GzWOYYC/giphy.gif?cid=ecf05e47sclxl10ielfz149xfhk3ppi9m863zc57j49eoh26&rid=giphy.gif&ct=g">
+  <img align="right" alt="baby-yoda" height="220" width="220"   src="https://media0.giphy.com/media/1A7ETzpIvs7GzWOYYC/giphy.gif?cid=ecf05e47sclxl10ielfz149xfhk3ppi9m863zc57j49eoh26&rid=giphy.gif&ct=g">
 </div>
 
 ##
